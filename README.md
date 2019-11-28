@@ -39,7 +39,7 @@ make this entire line of text into a link that goes to hstat.org
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
 <ol>
-    </1>Item 1</u>
-    </2>Item 2</u>
-    </3>Item 3</u>
+    </u>Item 1</u>
+    </u>Item 2</u>
+    </u>Item 3</u>
 </ol>
