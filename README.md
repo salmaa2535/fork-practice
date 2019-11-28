@@ -26,8 +26,8 @@ unordered
 list
 
 "I want this to be a block of text"
-"that takes up three lines but on"
-"the preview it looks like one line"
+that takes up three lines but on
+the preview it looks like one line"
 
 
 
