@@ -25,16 +25,16 @@ an
 unordered
 list
 
-"I want this to be a block of text"
+"I want this to be a block of text
 that takes up three lines but on
 the preview it looks like one line"
 
 
 
-Make me italicized
+
 
 git clone http://www.hstat.org/
-Turn this entire line of text into code
+
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
